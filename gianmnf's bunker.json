@@ -1,0 +1,46 @@
+{
+  "name": "gianmnf's bunker",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "appcorreios_flutter",
+      "bundleIdentifier": "br.com.correios.PreAtendimento",
+      "marketplaceID": "1399617917",
+      "developerName": "Correios",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/HytAfGI.png",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://gianmnf.com/1399617917_6.10.1.ipa",
+          "size": 58000000,
+          "version": "6.10.1",
+          "buildVersion": null,
+          "date": "2026-06-21T01:57:00-03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Este app necessita da permissão de acesso à câmera para leitura do código de barras.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Precisamos saber sua localização para mostrar as agências",
+          "NSLocationWhenInUseUsageDescription": "Precisamos saber sua localização para mostrar as agências",
+          "NSCameraUsageDescription": "Este app necessita da permissão de acesso à câmera para leitura do código de barras."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
